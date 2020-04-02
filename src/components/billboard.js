@@ -138,7 +138,7 @@ function Billboard() {
                 </div>
                 <div className="pt-2 lg:pt-2 xl:pt-2">
                   <a
-                    href="https://discord.gg/khSfWY"
+                    href="https://discord.gg/2MSfWBe"
                     className="shadow-none text-md font-semibold text-white focus:outline-none hover:underline no-underline outline-none"
                     target="_blank"
                     rel="noopener noreferrer"
