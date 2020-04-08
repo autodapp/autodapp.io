@@ -85,7 +85,7 @@ function Billboard() {
         className="required email w-full sm:w-auto inline-flex items-center justify-center px-6 py-3 border border-transparent text-base leading-6 font-semibold rounded-md text-gray-900 bg-white shadow-sm hover:text-gray-600 focus:outline-none focus:text-gray-600 transition ease-in-out duration-150 xl:text-lg xl:py-4"
         id="mce-EMAIL"
       />
-      <input type="hidden" value="website" name="SOURCE" class="" id="mce-SOURCE" placeholder="website">
+      <input type="hidden" value="website" name="SOURCE" class="" id="mce-SOURCE" placeholder="website" />
       <div style={{ position: "absolute", left: "-5000px" }} aria-hidden="true">
         <input
           type="text"
