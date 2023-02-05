@@ -1,7 +1,7 @@
 import PropTypes from "prop-types"
 import React from "react"
 
-import Billboard from "./Billboard"
+import Billboard from "./billboard"
 
 function Layout({ children }) {
   return (
